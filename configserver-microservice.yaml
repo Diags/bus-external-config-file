@@ -1,5 +1,10 @@
 server:
   port: 8070
+info:
+  app:
+    name: "configserver-microservice"
+    description: "SUNUBUS APPLICATION"
+    version: "1.0.0"
 eureka:
   instance:
     hostname: localhost
