@@ -2,7 +2,7 @@ build:
   version: "1.0"
 info:
   app:
-    name: "Bus-Service"
+    name: "bus-service"
     description: "SUNU BUS  APPLICATION"
     version: "1.0.0"
 bus-service:
